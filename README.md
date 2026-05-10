@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Lizard-Spock Game implemetation using python
+# Rock-Paper-Scissors-Lizard-Spock
 
 > Author: Roni Rengit
 
